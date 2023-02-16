@@ -1,0 +1,20 @@
+[Assisted Install]
+
+License Accepted=1
+
+Deployment Options=0
+
+Admin Console User=SandezaServer
+
+Admin Console Password=
+
+Admin Console PIN=1234
+
+License Certificate Path=/LicenseCert.fmcert
+
+Filter Databases=1
+
+Remove Desktop Shortcut=0
+
+Remove Sample Database=0
+
