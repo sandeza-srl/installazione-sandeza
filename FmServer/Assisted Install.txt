@@ -16,5 +16,5 @@ Filter Databases=1
 
 Remove Desktop Shortcut=0
 
-Remove Sample Database=0
+Remove Sample Database=1
 
