@@ -1,5 +1,0 @@
-.vscode
-*.pyc
-.idea
-venv
-google_credentials.json

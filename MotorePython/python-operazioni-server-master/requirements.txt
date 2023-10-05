@@ -1,3 +1,0 @@
-pyodbc==4.0.30
-python-dateutil==2.7.5
-python-fmrest==1.4.0
