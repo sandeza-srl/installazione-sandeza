@@ -1,2 +1,0 @@
-python-dateutil==2.7.5
-python-fmrest==1.4.0
